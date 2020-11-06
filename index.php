@@ -82,7 +82,7 @@
                             <img src="img/9.png" alt="Nuestras habilidades">
                             <section class="flex-caption">
                                 <h5 class="text-center">Desarrollamos </h5>
-                                <p class="text-center">Sistemas web, Apliaciones de Escritorio y más...</p>
+                                <p class="text-center">Sistemas web, Aplicaciones de Escritorio y más...</p>
                             </section>
                         </a>
                     </li>
@@ -199,7 +199,7 @@
                         <p>Te ofrecemos mantenimiento informático y asesoramiento adaptado a las distintas necesidades
                             de cada empresa.
                         </p>
-                        <!-- <a href="" type="button" class="btn">Ver mas..</a>-->
+                         <a href="" type="button" class="btn">Ver mas..</a>
                     </div </section>
             </div>
         </div>
