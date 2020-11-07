@@ -137,7 +137,7 @@
                             cualidades
                             que nos distinguen.
                         </p>
-                        <!-- <a href="" type="button" class="btn">Ver mas..</a>-->
+                        <a href="" type="button" class="btn">Ver mas..</a>
                     </div>
                 </section>
                 <section class="col-12 col-sm-6 col-md-4">
@@ -149,7 +149,7 @@
                         <p> Desarrollamos aplicaciones totalmente prácticas y administrables para plataformas de
                             Escritorio.
                         </p>
-                        <!-- <a href="" type="button" class="btn">Ver mas..</a>-->
+                        <a href="" type="button" class="btn">Ver mas..</a>
                     </div>
                 </section>
                 <section class="col-12 col-sm-6 col-md-4">
@@ -163,7 +163,7 @@
                             administra tu negocio local de manera fácil y rápida con el mejor software Punto de
                             Venta para abarrotes, ferreterías y más.
                         </p>
-                        <!-- <a href="" type="button" class="btn">Ver mas..</a>-->
+                        <a href="" type="button" class="btn">Ver mas..</a>
                     </div>
                 </section>
                 <section class="col-12 col-sm-6 col-md-4">
@@ -175,7 +175,7 @@
                         <p>Agiliza tus procesos y tareas a traves de software de administración de empleados, control de
                             caja, logística, inventarios. Cualquier base de datos que necesites la hacemos a tú medida.
                         </p>
-                        <!-- <a href="" type="button" class="btn">Ver mas..</a>-->
+                        <a href="" type="button" class="btn">Ver mas..</a>
                     </div>
                 </section>
                 <section class="col-12 col-sm-6 col-md-4">
@@ -187,7 +187,7 @@
                         <p> Construimos aplicaciones móviles asequibles, fáciles de usar y con muchas funciones para su
                             la administración de su negocio o empresa.
                         </p>
-                        <!-- <a href="" type="button" class="btn">Ver mas..</a>-->
+                        <a href="" type="button" class="btn">Ver mas..</a>
                     </div>
                 </section>
                 <section class="col-12 col-sm-6 col-md-4">
