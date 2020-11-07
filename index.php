@@ -202,7 +202,7 @@
                          <a href="" type="button" class="btn">Ver mas..</a>
                     </div </section>
             </div>
-        </div>
+        </div> 
         <div id="portafolio" class="portafolio">
             <h2 class="my-5">Casos de éxito</h2>
 
@@ -335,4 +335,4 @@ $(document).ready(function() {
 });
 </script>
 
-</html>
+</html> 
