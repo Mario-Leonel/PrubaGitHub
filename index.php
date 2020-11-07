@@ -197,7 +197,7 @@
                         </div>
                         <h2 class="services">Soporte Remoto</h2>
                         <p>Te ofrecemos mantenimiento informático y asesoramiento adaptado a las distintas necesidades
-                            de cada empresa.
+                            de cada empresa. Utlizamos herramientas practicas y fáciles de usar, con la mejor actitud a nuestro cliente.
                         </p>
                          <a href="" type="button" class="btn">Ver mas..</a>
                     </div </section>
