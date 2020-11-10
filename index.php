@@ -157,7 +157,7 @@
                         <div class="content-img">
                             <img src="img/webecommerce.png" alt="Punto de venta">
                         </div>
-                        <h2 class="services">E-Comerce y Punto de venta</h2>
+                        <h2 class="services">E-Comerce y Puntos de venta</h2>
                         <p>
                             Facilitamos las compras por internet mediante una tienda en línea confiable, o bien
                             administra tu negocio local de manera fácil y rápida con el mejor software Punto de
